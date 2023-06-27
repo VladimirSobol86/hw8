@@ -1,0 +1,6 @@
+1,IVANOV,IVAN,IVANIVICH,89999999999
+2,newsur,newfn,newsec,newtel, 
+4,BJENCHI,SHCHINKEVICH,GJEGOSH,819391942
+5,Sunders,Adam,Hater,111222
+6,Moskov,Alex,Edmundovich,44455557777,22,22,2,, 
+7,11,11,11,11, 
